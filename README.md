@@ -66,6 +66,32 @@ I tested several approaches:
 - In a single train test split, Subject 2 classified 11 out of 12 test trials correctly.
 - Leave one subject out testing ranged from 37.78 percent to 53.33 percent accuracy.
 
+## Visual Results
+
+### Cross Validated Accuracy with Error Bars
+
+![Cross Validated Accuracy with Error Bars](images/cross_validated_accuracy_error_bars.png)
+
+### Classifier Comparison
+
+![Classifier Comparison](images/classifier_comparison.png)
+
+### Leave One Subject Out Accuracy
+
+![Leave One Subject Out Accuracy](images/leave_one_subject_out_accuracy.png)
+
+### Confusion Matrix for Subject 2
+
+![Confusion Matrix for Subject 2](images/confusion_matrix_subject.png)
+
+### EEG Electrode Map
+
+![EEG Electrode Map](images/eeg_electrode_map.png)
+
+### CSP Pattern Visualization
+
+![CSP Pattern Visualization](images/csp_patterns.png)
+
 ## Main Finding
 
 The biggest finding from this project was that subject specific EEG models performed much better than models tested on completely unseen participants.
