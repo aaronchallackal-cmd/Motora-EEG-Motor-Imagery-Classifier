@@ -6,9 +6,11 @@ I wanted to create a hands on project that combined neuroscience, signal process
 
 ## Why I Built This
 
-I have been interested in neurotechnology and brain computer interfaces, so I wanted to build a project that would let me work with real EEG data instead of only reading about the field.
+I recently had a surge of interest and curiosity in neurotechnology and brain computer interfaces, and I wanted to do something hands on instead of only reading or watching videos about the field.
 
-The goal was to create a complete beginner friendly EEG machine learning workflow, from loading raw brain signals to training models and interpreting the results.
+I wanted to see what it would actually be like to work with real EEG brain signal data and build a basic machine learning workflow from start to finish.
+
+The goal was to create a beginner friendly project that helped me understand how raw brain signals can be loaded, processed, visualized, and used to train models for brain state classification.
 
 ## Project Overview
 
