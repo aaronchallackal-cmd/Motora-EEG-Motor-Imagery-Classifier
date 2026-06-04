@@ -10,7 +10,7 @@ I recently had a surge of interest and curiosity in neurotechnology and brain co
 
 I wanted to see what it would actually be like to work with real EEG brain signal data and build a basic machine learning workflow from start to finish.
 
-The goal was to create a beginner friendly project that helped me understand how raw brain signals can be loaded, processed, visualized, and used to train models for brain state classification.
+The goal was to create an accessible EEG machine learning project that helped me understand how raw brain signals can be loaded, processed, visualized, and used to train models for brain state classification.
 
 ## Project Overview
 
