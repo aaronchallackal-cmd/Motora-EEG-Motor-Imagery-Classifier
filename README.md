@@ -16,7 +16,7 @@ My goal was to create an accessible EEG machine learning project that helped me 
 
 This project uses public EEG recordings from the EEGBCI motor imagery dataset.
 
-The main task was to classify between two imagined movement conditions:
+The main task was to classify between two imagined movement conditions: 
 
 1. Imagined left hand movement
 2. Imagined right hand movement
