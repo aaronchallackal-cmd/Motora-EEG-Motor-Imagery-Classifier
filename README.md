@@ -1,4 +1,4 @@
-# NeuroPilot: EEG Motor Imagery Classification
+# NeuroPilot: EEG Motor Imagery Classifier
 
 NeuroPilot is a neurotechnology project I built to explore whether EEG brain signals can be used to classify imagined left hand movement versus imagined right hand movement.
 
