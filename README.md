@@ -1,6 +1,6 @@
-# NeuroPilot: EEG Motor Imagery Classifier
+# Motora: EEG Motor Imagery Classifier
 
-NeuroPilot is a neurotechnology project I built to explore whether EEG brain signals can be used to classify imagined left hand movement versus imagined right hand movement.
+Motora is a neurotechnology project I built to explore whether EEG brain signals can be used to classify imagined left hand movement versus imagined right hand movement.
 
 I wanted to create a hands on project that combined neuroscience, signal processing, and machine learning using real public brain signal data.
 
@@ -121,7 +121,7 @@ I also learned that neurotechnology models are not only about achieving high acc
 
 ## Future Improvements
 
-Future versions of NeuroPilot could include:
+Future versions of Motora could include:
 
 - Testing more subjects
 - Using more EEG runs
@@ -133,6 +133,6 @@ Future versions of NeuroPilot could include:
 
 ## Conclusion
 
-NeuroPilot demonstrates a full beginner neurotechnology workflow using public brain signal data.
+Motora demonstrates a full beginner neurotechnology workflow using public brain signal data.
 
 The project shows that EEG motor imagery classification is possible using free public data and basic machine learning methods, while also highlighting an important challenge in neurotechnology: models often perform better within individual participants than across new unseen participants.
